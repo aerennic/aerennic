@@ -1,5 +1,5 @@
 ## Hi, I'm Megan (●'◡'●) !
-
+# visit my personal website here: https://aerennic.github.io/my-website/ (´▽`ʃ♡ƪ)
 <!--
 **aerennic/aerennic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
