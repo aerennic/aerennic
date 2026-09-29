@@ -1,5 +1,10 @@
 ## Hi, I'm Megan (●'◡'●) !
-#### visit my personal website here: https://aerennic.github.io/my-website/ (´▽`ʃ♡ƪ)
+Computer Science @ SFU
+
+Visit my personal website here: https://aerennic.github.io/my-website/ (´▽`ʃ♡ƪ)
+
+## About Me
+🎓 Computer Science @ Simon Fraser University 
 <!--
 **aerennic/aerennic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
