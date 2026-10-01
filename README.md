@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/aerennic">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Megan%20(%E2%97%8F'%E2%97%A1'%E2%97%8F)%20!" alt="Hi, I&#39;m Megan (●&#39;◡&#39;●) !" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF4538&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Megan%20(%E2%97%8F'%E2%97%A1'%E2%97%8F)%20!" alt="Hi, I&#39;m Megan (●&#39;◡&#39;●) !" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=370&height=44&lines=Computer%20Science%20%40%20SFU" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=370&height=44&lines=Computer%20Science%20%40%20SFU" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -46,6 +46,6 @@ Aspiring developer who loves to create fun and interacting projects! Interested 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aerennic&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aerennic&layout=compact&theme=tokyonight&title_color=ff7b72&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
