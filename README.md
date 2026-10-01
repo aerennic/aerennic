@@ -18,6 +18,8 @@ Aspiring software developer who enjoys creating **interactive and visually engag
 ⚡ &nbsp;Fun fact: I listened to **Perfect Night by LE SSERAFIM** 4,000+ times in total  
 🔗 &nbsp;Visit my **portfolio/website** (´▽`ʃ♡ƪ)   https://aerennic.github.io/my-website/   
 
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -54,6 +56,8 @@ Aspiring software developer who enjoys creating **interactive and visually engag
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
