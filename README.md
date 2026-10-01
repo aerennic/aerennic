@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/aerennic">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF594D&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Megan%20(%E2%97%8F'%E2%97%A1'%E2%97%8F)%20!" alt="Hi, I&#39;m Megan (●&#39;◡&#39;●) !" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF594D&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Megan!" alt="Hi, I&#39;m Megan!" />
   </a>
 </p>
 
