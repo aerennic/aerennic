@@ -16,7 +16,7 @@ Aspiring software developer who enjoys creating **interactive and visually engag
 🌱 &nbsp;Currently exploring **JavaScript, React, SQL**  
 💬 &nbsp;I enjoy **kpop, art, webtoon, gaming**  
 ⚡ &nbsp;Fun fact: I listened to **Perfect Night by LE SSERAFIM** 4,000+ times in total  
-🔗 &nbsp;Visit my **portfolio/website** (´▽`ʃ♡ƪ)   https://aerennic.github.io/my-website/   
+🔗 &nbsp;Visit my **portfolio/website** (´▽`ʃ♡ƪ)   [meganchau.com](https://meganchau.com/)   
 
 ---
 
